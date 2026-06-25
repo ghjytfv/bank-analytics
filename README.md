@@ -151,7 +151,7 @@ For the full list, see the `queries/` folder.
 
 ## Author
 
-[Your Name]
+Igor
 
 Created as part of preparation for the interview process at Banco Plata.
 
