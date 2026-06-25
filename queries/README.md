@@ -45,3 +45,8 @@ The schema consists of 6 tables:
 2. Create a new database:
    ```sql
    CREATE DATABASE bank_db;
+
+   4. Run the scripts in the following order:
+   - `init-db/01-schema.sql` – creates all tables
+   - `init-db/02-seed.sql` – populates tables with sample data
+   - `init-db/03-indexes.sql` – creates indexes for performance
