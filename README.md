@@ -7,7 +7,7 @@ A portfolio project demonstrating SQL skills and relational database design usin
 
 ## ER Diagram
 
-![ER Diagram](queries/docs/er_diagram.png)
+![ER Diagram](docs/er_diagram.png)
 
 ---
 
